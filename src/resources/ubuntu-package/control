@@ -1,0 +1,8 @@
+Package: KomodoSwingWalletUI
+Version: 0.6.1
+Section: misc
+Priority: low
+Architecture: all
+Description: Komodo Desktop GUI Wallet
+Maintainer: ca333@protonmail.ch
+Depends: default-jdk, komodo
