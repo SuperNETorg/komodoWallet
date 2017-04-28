@@ -6,24 +6,24 @@
 This program provides a Graphical User Interface (GUI) for the Komodo client tools that acts as a wrapper and
 presents the information in a user-friendly manner.
 
-![Screenshot](https://github.com/ca333/komodo-swing-wallet-ui/raw/master/docs/komodo_gui.png "Komodo GUI")
+![Screenshot](https://github.com/ca333/komodoGUI/raw/master/docs/komodo_gui.png "Komodo GUI")
 
-#### New/Experimental: [Komodo Desktop GUI Wallet for Windows](https://github.com/ca333/komodo-swing-wallet-ui/blob/master/docs/Readme-Windows.md) is IN WORK
-#### Experimental: [Komodo Desktop GUI Wallet for MAC OS X](https://github.com/ca333/komodo-swing-wallet-ui/blob/master/docs/Readme-Mac.md) is available and tested
+#### New/Experimental: [Komodo Desktop GUI Wallet for Windows](https://github.com/ca333/komodoGUI/blob/master/docs/Readme-Windows.md) is IN WORK
+#### Experimental: [Komodo Desktop GUI Wallet for MAC OS X](https://github.com/ca333/komodoGUI/releases/tag/v0.7.7-osx) is available and tested
 
 ## Building, installing and running the Wallet GUI
 
 
 **For security reasons it is recommended to always build the GUI wallet program from GitHub**
-**[source](https://github.com/ca333/komodo-swing-wallet-ui/archive/master.zip).**
+**[source](https://github.com/ca333/komodoGUI/archive/master.zip).**
 The details of how to build it are described below (easy to follow).
 Users who insist on downloading a binary release may instead
-use [Komodo Desktop GUI Wallet - binary release v0.6.1-beta](https://github.com/ca333/komodoOSX/releases/tag/v0.6.1-beta)
+use [Komodo Desktop GUI Wallet - binary release v0.7.7-beta](https://github.com/ca333/komodoGUI/releases/tag/v0.7.7-osx)
 
 
 1. Operating system and tools
 
-   As of January 2017 the base software (Komodo v1.0.5) is mostly tested on Linux, Windows (experimental) and Mac OS X (experimental) (with same limitation as [ZCash](https://z.cash/)).  
+   As of April 2017 the base software (Komodo v1.0.8) is mostly tested on Linux, Windows (experimental) and Mac OS X (experimental) (with same limitation as [ZCash](https://z.cash/)).  
    The Linux tools you need to build and run the Wallet GUI are Git, Java (JDK7 or later) and
    Ant. If using Ubuntu Linux, they may be installed via command:
    ```
@@ -96,13 +96,6 @@ use [Komodo Desktop GUI Wallet - binary release v0.6.1-beta](https://github.com/
    right-click on the `KomodoSwingWalletUI.jar` file and choose the option "Open with OpenJDK 8 Runtime".
    This will start the Komodo GUI wallet.
 
-### Donations accepted
-At the present time this project is non-commercial in nature and developed by volunteers. If you find the GUI
-Wallet useful, please consider making a donation for its further development. Your contribution matters! Donations are accepted at Komodo address:
-
-```
-RCA333bLBdgzvJmHFAwCBBHUwwCsTVatp9
-```
 
 ### License
 This program is distributed under an [MIT License](https://github.com/ca333/komodo-swing-wallet-ui/raw/master/LICENSE).
