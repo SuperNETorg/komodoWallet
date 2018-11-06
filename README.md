@@ -1,3 +1,5 @@
+### abandoned project - please check out Agama https://github.com/komodoplatform/agama
+
 # [Komodo](https://komodoplatform.com/) Desktop GUI Wallet
 [disclaimer](#disclaimer)
 
